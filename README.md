@@ -30,7 +30,7 @@
 ![](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)
 ![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat)
 
-### Tool
+### Tools
 ![](https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic)
 ![](https://img.shields.io/badge/-Jira-172B4D.svg?logo=jira&style=plastic)
 ![](https://img.shields.io/badge/-Figma-F24E1E.svg?logo=figma&style=plastic)
