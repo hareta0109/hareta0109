@@ -3,12 +3,12 @@
 ### Main Languages
 ![](https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=plastic)
 ![](https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=plastic)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=plastic)
 
 ### Sub Languages
 ![](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic)
 ![](https://img.shields.io/badge/-C%23-512BD4.svg?logo=csharp&style=plastic)
 ![](https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&style=plastic)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=plastic)
 
 ### Frameworks
 ![](https://img.shields.io/badge/-Graphql-E10098.svg?logo=graphql&style=plastic)
